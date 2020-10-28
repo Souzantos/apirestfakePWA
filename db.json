@@ -1,0 +1,15 @@
+{"USD":
+ {
+   "code":"USD",
+   "codein":"BRL",
+   "name":"DólarComercial",
+   "high":"5.7062",
+   "low":"5.706",
+   "varBid":"0.0005",
+   "pctChange":"0.01",
+   "bid":"5.705",
+   "ask":"5.707",
+    "timestamp":"1603884540",
+    "create_date":"2020-10-28 08:29:01"
+ }
+}
